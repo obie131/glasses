@@ -1,3 +1,10 @@
+.center{
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  justify-content: center;
+}
+
 .background-image {
   display: flex;
   justify-content: center;
@@ -11,6 +18,7 @@
 /*       --------------------------Banner---------------------*/
 
 .container {
+
   width: 960px;
   font-size: 18px;
   line-height: 1.4;
